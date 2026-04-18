@@ -31,8 +31,10 @@ main{
 }
 footer{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 20px;
     align-items: center;
+    flex-wrap: wrap;
     background: #ede7fe;
     width: 100%;
     padding: 20px 10px;
