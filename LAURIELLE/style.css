@@ -56,3 +56,7 @@ img{
 .luck{
     direction: none;
 }
+footer img{
+    width: 40px;
+    height: auto;
+}
